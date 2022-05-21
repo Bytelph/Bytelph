@@ -7,8 +7,6 @@
 
 > **微信公众号**：Bytehub
 
-> **Gitee**：Bytelph
-
 > **CSDN**：紫荆鱼
 
 **擅长领域**：C++
