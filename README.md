@@ -1,8 +1,8 @@
-<img src="D:\mydesk\GitHub\Bytelph\images\133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg" style="zoom: 50%;" />
+<img src="images\133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg" style="zoom: 50%;" />
 
 #### Hi, I'm ByteBoy. You can find me in these apps below.
 
-<img src="\images\github.png" style="zoom:25%;" /> <img src="\images\gitee.png" style="zoom:25%;" />    <img src=".\images\推特 twitter.png" style="zoom:25%;" />  <img src=".\images\facebook.png" style="zoom:25%;" />  <img src=".\images\WeChat-logo.png" style="zoom:25%;" />  <img src=".\images\QQ.png" style="zoom:25%;" />  <img src="images\Linked In.png" style="zoom:25%;" />  <img src="\images\微信公众号.png" style="zoom:25%;" />  <img src="\images\CSDN.png" style="zoom:25%;" />  
+<img src="\images\github.png" style="zoom:5%;" /> <img src="\images\gitee.png" style="zoom:5%;" />    <img src=".\images\推特 twitter.png" style="zoom:5%;" />  <img src=".\images\facebook.png" style="zoom:5%;" />  <img src=".\images\WeChat-logo.png" style="zoom:5%;" />  <img src=".\images\QQ.png" style="zoom:5%;" />  <img src="images\Linked In.png" style="zoom:5%;" />  <img src="\images\微信公众号.png" style="zoom:5%;" />  <img src="\images\CSDN.png" style="zoom:5%;" />  
 
 
 
