@@ -2,7 +2,7 @@
 
 #### Hi, I'm ByteBoy. You can find me in these apps below.
 
-<img src="\images\github.png" width="150";" /> <img src="\images\gitee.png" style="zoom:5%;" />    <img src=".\images\推特 twitter.png" style="zoom:5%;" />  <img src=".\images\facebook.png" style="zoom:5%;" />  <img src=".\images\WeChat-logo.png" style="zoom:5%;" />  <img src=".\images\QQ.png" style="zoom:5%;" />  <img src="images\Linked In.png" style="zoom:5%;" />  <img src="\images\微信公众号.png" style="zoom:5%;" />  <img src="\images\CSDN.png" style="zoom:5%;" />  
+<img src="\images\github.png" width="150"/> <img src="\images\gitee.png" style="zoom:5%;" />    <img src=".\images\推特 twitter.png" style="zoom:5%;" />  <img src=".\images\facebook.png" style="zoom:5%;" />  <img src=".\images\WeChat-logo.png" style="zoom:5%;" />  <img src=".\images\QQ.png" style="zoom:5%;" />  <img src="images\Linked In.png" style="zoom:5%;" />  <img src="\images\微信公众号.png" style="zoom:5%;" />  <img src="\images\CSDN.png" style="zoom:5%;" />  
 
 
 
