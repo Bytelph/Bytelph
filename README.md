@@ -11,5 +11,4 @@
 
 **擅长领域**：C++
 
-<img src="images\cpp.png" width="30" /> 11 
-
+<img src="images\cpp.png" width="30" /> 11   <img src="images\linux .png" width="30" />
